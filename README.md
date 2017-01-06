@@ -1,5 +1,5 @@
 # any_small
-A type-erasing container for small objects.
+`any_small` is a type-erasing container for small objects.
 
 The main differences between `any_small` and `std::any`:
 
